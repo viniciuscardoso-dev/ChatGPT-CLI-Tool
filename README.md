@@ -12,6 +12,30 @@ Tudo começou quando recebi em mãos uma máquina com incríveis 1 GHz de proces
 
 No meu dia a dia, utilizo muito os recursos de IA, principalmente o CHATGPT, que está disponível em um site que, adivinhem só, roda em um navegador. Acho que a essa altura você já entendeu o problema. No entanto, a OpenAI é sensacional e distribuiu uma API em Python. Foi então que surgiu essa ferramenta incrível que roda nessa máquina antiga.
 
+# ChatGPT Python CLI
+
+Este é um simples script em Python que utiliza a API do OpenAI para interagir com o modelo de linguagem ChatGPT. Ele permite que você faça perguntas e receba respostas em tempo real do modelo. 
+
+## Configuração
+
+Antes de executar o código, certifique-se de ter instalado a biblioteca `openai` e tenha uma chave de API válida do OpenAI. Você pode obter a chave de API em sua conta do OpenAI.
+
+No código, substitua `"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"` pela sua chave de API no atributo `openai.api_key`.
+
+## Uso
+
+1. Execute o script em um ambiente Python.
+2. Digite a pergunta que deseja fazer ao modelo.
+3. Aguarde a resposta do modelo, que será exibida no terminal.
+
+Tenha em mente que você pode ajustar os parâmetros da função `perguntar_gpt` de acordo com suas necessidades. Por exemplo, você pode alterar o modelo de linguagem (`engine`), o número máximo de tokens (`max_tokens`), a temperatura (`temperature`), entre outros.
+
+## Requisitos
+
+- Python 3.x
+- Biblioteca `openai` (instalável via `pip install openai`)
+
+Lembre-se de respeitar os termos de uso da OpenAI ao utilizar este código. Certifique-se de entender e cumprir as diretrizes fornecidas pela OpenAI para uso da API do ChatGPT.
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## English
