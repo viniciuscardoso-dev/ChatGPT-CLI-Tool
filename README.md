@@ -16,6 +16,18 @@ No meu dia a dia, utilizo muito os recursos de IA, principalmente o CHATGPT, que
 
 Este é um simples script em Python que utiliza a API do OpenAI para interagir com o modelo de linguagem ChatGPT. Ele permite que você faça perguntas e receba respostas em tempo real do modelo. 
 
+## Prints
+
+Aqui estão alguns prints mostrando o funcionamento da ferramenta:
+
+![Exemplo 1](/prints/history.jpg)
+*Legenda: chamada do programa pré-configurado com um alias=gpt.*
+
+![Exemplo 2](/prints/screenshot.jpg)
+*Legenda: Resposta do programa.*
+
+
+
 ## Configuração
 
 Antes de executar o código, certifique-se de ter instalado a biblioteca `openai` e tenha uma chave de API válida do OpenAI. Você pode obter a chave de API em sua conta do OpenAI.
