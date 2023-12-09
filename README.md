@@ -1,4 +1,4 @@
-# ChatGPT-CLI-Tool
+# ChatGPT-CLI-Tool (DESATUALIZADO ⚠️)
 
 ### Introdução
 
